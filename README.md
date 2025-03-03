@@ -26,7 +26,7 @@ Each project is contained in its own folder with the necessary files and a dedic
 ## 📊 Excel Techniques Used
 ✅ Pivot Tables  
 ✅ Lookup Functions (VLOOKUP, XLOOKUP)  
-✅ Logical Formulas (IF, AND, OR)  
+✅ Logical Formulas (IF, AND, OR, CONCATENATE etc)  
 ✅ Conditional Formatting  
 ✅ Data Validation  
 ✅ Charts & Visualizations  
