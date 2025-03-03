@@ -22,9 +22,9 @@ This sheet tracks:
 
 ---
 
-### Sheet2 - Analysis/Visualizations (optional)
+### Sheet2 - Analysis/Visualizations
 
-This can be used as a placeholder for summary analysis, charts, or pivot tables if needed for further visualization in future updates.
+This sheet contains the sum of sales of each employee on a pie chart
 
 ---
 
